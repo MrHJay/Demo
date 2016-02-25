@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=0,minimum-scale=1,maximum-scale=1">
+		<meta name="format-detection" content="telephone=no">
+		<title></title>
+	</head>
+
+	<body>
+		<button onclick="test()">test</button>
+		<script type="text/javascript" src="js/jquery.js"></script>
+		<script type="text/javascript" src="js/common.js"></script>
+		<script type="text/javascript" src="js/net.js"></script>
+		<script type="text/javascript">
+			//			addJavascript("js/jquery.js", function() {
+			//				addJavascript("js/net.js");
+			//				console.info("onload javascript");
+			//			});
+			var array = [{
+				key: "abs",
+				value: 2
+			}, {
+				key: "swf",
+				value: 3
+			}, {
+				key: "cgh",
+				value: 0
+			}];
+			console.log(sortParams(array));
+			var time = new Date().getTime()/1000;
+			console.log(time)
+			console.log(parseInt(time))
+
+			function test() {
+				var request = new netRequest("http://www.baidu.com", true, null, null, null, 20000).get();
+			}
+		</script>
+	</body>
+
+</html>
