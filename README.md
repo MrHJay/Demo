@@ -1,6 +1,6 @@
 # Demo
 Programe Test Demos
 
-  All the project are free for read and learned, yon can download and learn the good things, but when you want publish to somewhere, please indicate the sources, Thanks ! 
+  All the project are free for read and learned, Yon can download and learn the great things. But to respect the ordinary author, when you want to publish it at somewhere, please indicate the sources, Thanks ! 
 
-  All rights reserved hejie. If you has some questions or discuss with me, email to me by hejiedhj@outlook.com.
+  All rights reserved hejie. If you has some questions or discuss with me, email(hejiedhj@outlook.com) to me by .
